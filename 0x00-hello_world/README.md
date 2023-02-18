@@ -1,1 +1,1 @@
-script to write a c program
+c program that prints a sentence
