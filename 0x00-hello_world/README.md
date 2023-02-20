@@ -1,1 +1,1 @@
-c program that prints a sentence
+script that print the size of various types on a computer
