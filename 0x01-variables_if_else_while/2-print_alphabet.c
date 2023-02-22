@@ -1,16 +1,21 @@
 #include <stdio.h>
+
 /**
- * main - A program that prints the alphabet in lowcase followed by a new line
- * Return: Always 0(Success)
+ *main - Entry point
+ *
+ *Return: Always 0
  */
+
 int main(void)
 {
-char alp7[26] = "abcdefghijklmnopqrstuvwxyz";
-int i;
+char lc;
+lc = 'a';
+
+while (lc <= 'z')
 {
-for ("i = 0; i < 26; i + +")
-{
-putchar(alp[i]);
+	putchar(lc);
+	lc++;
 }
-putchar('n')
-return(0)
+putchar('\n');
+return (0);
+}
