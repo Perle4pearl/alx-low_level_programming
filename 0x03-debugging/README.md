@@ -1,1 +1,1 @@
-Copy this main file,comment out
+Welcome to C - Debugging.
